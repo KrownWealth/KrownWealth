@@ -1,11 +1,7 @@
-Hi, I'm Adeola 👋✨👩🏾•💻<br>
-😄 Pronouns: ... She/her
-
-<a href="https://www.linkedin.com/in/adeolaabdulramon/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## I'm a motivated Software Engineer(Frontend). 
 
-I Helping business to build high-performance web applications that delight users and drive business growth.
+I help business to build high-performance web applications that delight users and drive business growth.
 
 I enjoy building websites and web applications with React, Next.Js.
 
