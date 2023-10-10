@@ -3,11 +3,12 @@ Hi, I'm Adeola 👋✨👩🏾•💻<br>
 
 <a href="https://www.linkedin.com/in/adeolaabdulramon/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## I'm a motivated Web Developer and Tech Enthusiast. 
+## I'm a motivated Software Engineer(Frontend). 
 
-I help businesses to grow their online presence by having modern and up-to-date websites. 
+I Helping business to build high-performance web applications that delight users and drive business growth.
 
-I enjoy building websites and web applications with HTML,CSS, JavaScript, and WordPress. Having a strong emphasis on Next.Js and React.Js.
+I enjoy building websites and web applications with React, Next.Js.
 
-I volunteered at Jed Child Trust Foundation a non-profit organization which is centred on improving the quality of education  for Africa children in rural and suburban areas, promoting and providing them with high-quality education.
+I volunteered at CubeSeed Africa an organization that is Empowering Agriculture in Africa through contract-driven Virtual Marketplace. Alos at Jed Child Trust Foundation a non-profit organization which is centred on improving the quality of education  for Africa children in rural and suburban areas, promoting and providing them with high-quality education.
 
+I love e-Commerce a lot, and would love to know how I can serve your organization while upscaling to all-levels of growth.
