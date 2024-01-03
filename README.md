@@ -6,10 +6,10 @@
 
 Skills:
 
-**Programming Languages:** React, Next.JS Vanilla HTML, CSS, JavaScript
+**Programming Languages:** React, TypeScript, Vanilla HTML, CSS, JavaScript
 
 
-**Open-Source Frameworks and Libraries:** TailwindCSS, BootStrap, Material UI
+**Open-Source Frameworks and Libraries:** Next JS, Vite,  TailwindCSS, BootStrap, Material UI, SASS.
 
 
 **DataBases:** Appwrite Databases, MongoDB
