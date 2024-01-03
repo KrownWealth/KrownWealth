@@ -3,10 +3,22 @@
 
 
 📈 Stats
+
+
 Skills:
 
-Languages: JavaScript, React, 
-Web Frameworks: React, Next.JS, Vite
+**Programming Languages:** React, Next.JS Vanilla HTML, CSS, JavaScript
 
 
-Database: MongoDB, MySQL
+**Open-Source Frameworks and Libraries:** TailwindCSS, BootStrap, Material UI
+
+
+**DataBases:** Appwrite Databases, MongoDB
+
+
+**Cloud Platform:** Appwrite, Vercel, Heroku
+
+**Version Control:** Git, GitHub
+
+
+**SDLC:** Scrum
