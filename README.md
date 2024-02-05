@@ -15,9 +15,10 @@ Skills:
 **DataBases:** Appwrite Databases, MongoDB
 
 
-**Cloud Platform:** Appwrite, Vercel, Heroku
+**Cloud Platform:** AWS Amplify, Appwrite, Vercel, Heroku, Github Pages
 
-**Version Control:** Git, GitHub
+**Version Control:** Git, GitHub.
 
+**Communication and Collaboration Tools:** Jira, Slack, Discord, Trello, Google Meet.
 
-**SDLC:** Scrum
+**SDLC:** Scrum/Agile
