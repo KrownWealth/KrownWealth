@@ -6,19 +6,17 @@
 
 Skills:
 
-**Programming Languages:** React, TypeScript, Vanilla HTML, CSS, JavaScript
+**Programming Languages:** TypeScript, JavaScript ES6, GraphQL, RESTful API Integration, HTML/CSS
 
 
-**Open-Source Frameworks and Libraries:** Next JS, Vite,  TailwindCSS, BootStrap, Material UI, SASS.
+**Frontend Frameworks and Libraries:** React, Next JS, Vite, Tailwind CSS, SASS, BootStrap, Vitest, Jest, RTL, ShadCN UI
 
 
-**DataBases:** Appwrite Databases, MongoDB
+**DataBases:** PostgreSQL(Supabase), NoSQL(MongoDB)
 
 
-**Cloud Platform:** AWS Amplify, Appwrite, Vercel, Heroku, Github Pages
+**Cloud Platform:** AWS Amplify, Vercel, Cloudinary
 
 **Version Control:** Git, GitHub.
 
-**Communication and Collaboration Tools:** Jira, Slack, Discord, Trello, Google Meet.
-
-**SDLC:** Scrum/Agile
+**Software Tools:** Postman Workspace, Jira, Slack, Discord, Trello, Google Meet
